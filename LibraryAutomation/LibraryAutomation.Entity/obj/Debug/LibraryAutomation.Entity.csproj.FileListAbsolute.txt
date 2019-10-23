@@ -1,0 +1,6 @@
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.Entity\bin\Debug\LibraryAutomation.Entity.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.Entity\bin\Debug\LibraryAutomation.Entity.pdb
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.Entity\obj\Debug\LibraryAutomation.Entity.csproj.CoreCompileInputs.cache
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.Entity\obj\Debug\LibraryAutomation.Entity.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.Entity\obj\Debug\LibraryAutomation.Entity.pdb
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.Entity\obj\Debug\LibraryAutomation.Entity.csprojAssemblyReference.cache

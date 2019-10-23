@@ -1,0 +1,14 @@
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\LibraryAutomation.DataAccess.dll.config
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\LibraryAutomation.DataAccess.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\LibraryAutomation.DataAccess.pdb
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\LibraryAutomation.Entity.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\LibraryAutomation.Entity.pdb
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\obj\Debug\LibraryAutomation.DataAccess.csprojAssemblyReference.cache
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\obj\Debug\LibraryAutomation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\obj\Debug\LibraryAutomation.DataAccess.csproj.CopyComplete
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\obj\Debug\LibraryAutomation.DataAccess.dll
+C:\Users\EMRAH\source\repos\LibraryAutomation\LibraryAutomation.DataAccess\obj\Debug\LibraryAutomation.DataAccess.pdb
